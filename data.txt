@@ -1,0 +1,7 @@
+RAG stands for Retrieval-Augmented Generation.
+
+RAG allows an AI model to retrieve information
+from external documents before answering questions.
+
+Document loaders read data from files and convert
+it into documents that a RAG pipeline can process.
